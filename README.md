@@ -17,4 +17,4 @@
 
 ## Summary
 
-*<p> June is warmer than December but not by much. It should not affect business as much as say. More insteresting data would probably be the tourism. 
+* <p> June is warmer than December but not by much. It should not affect business as much as say. More insteresting data would probably be the tourism. 
